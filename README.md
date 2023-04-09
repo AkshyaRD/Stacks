@@ -1,4 +1,4 @@
-# Perfroming opeartions on Stacks
+# Performing opeartions on Stacks
 
 ### About Stacks
 A stack is a linear data structure, a collection of items of the same type.
