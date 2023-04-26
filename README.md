@@ -4,7 +4,10 @@
 A stack is a linear data structure, a collection of items of the same type.
 In a stack, the insertion and deletion of elements happen only at one endpoint. 
 The behavior of a stack is described as “Last In, First Out” (LIFO). 
-When an element is “pushed” onto the stack, it becomes the first item that will be “popped” out of the stack.
+When an element is “pushed” onto the stack, it becomes the first item that will be “popped” out of the stack.  
+
+![image](https://user-images.githubusercontent.com/91966613/234484039-b6952e2d-9468-4de2-8db2-de1315a671c9.png)  
+
 
 ### About the code  
 3 separate functions have been declared to perform the push, pop operations and to display the elements of the Stack  
